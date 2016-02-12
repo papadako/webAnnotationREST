@@ -5,7 +5,7 @@
 
     <groupId>ics.forth.gr</groupId>
     <artifactId>LifeWatchAnnotation</artifactId>
-    <version>1.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>LifeWatchAnnotation</name>
