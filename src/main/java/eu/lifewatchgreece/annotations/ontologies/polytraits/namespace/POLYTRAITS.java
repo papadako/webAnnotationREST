@@ -117,7 +117,7 @@ public class POLYTRAITS {
      * water column. Usually defined based on ecological features of the
      * zonation.
      */
-    public final static String DZP = " 	http://polytraits.lifewatchgreece.eu/terms/DZP";
+    public final static String DZP = "http://polytraits.lifewatchgreece.eu/terms/DZP";
     /**
      * Modalities for DZP
      */
